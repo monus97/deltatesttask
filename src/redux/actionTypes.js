@@ -1,0 +1,5 @@
+export const ADD_DATA = "ADD_DATA" 
+export const ADD_DATA_SUCCESS = "ADD_DATA_SUCCESS"
+export const GET_ALL_DATA = "GET_ALL_DATA" 
+export const GET_ALL_DATA_SUCCESS = "GET_ALL_DATA_SUCCESS"
+export const ERROR = "ERROR" 
